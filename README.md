@@ -35,6 +35,26 @@ Pertemuan 7 – Regresi Linear dan Evaluasi Model
 Mempelajari pembuatan model regresi linear sederhana dan evaluasi performa model menggunakan MAE, RMSE, dan R².
 Notebook: [Pertemuan 7](https://colab.research.google.com/drive/15Gv8BKrnGKnoO9KXUbqd1cUGeK2XC0u2)
 
+Pertemuan 9 – Algoritma Klasifikasi (Bagian 1)
+Mempelajari penerapan Logistic Regression dan Decision Tree untuk menyelesaikan permasalahan klasifikasi serta mengevaluasi performa model menggunakan Confusion Matrix, Accuracy, Precision, Recall, dan F1-Score.
+Notebook: [Pertemuan 9](https://colab.research.google.com/drive/1rClEidvJgsG-ra0udjLfO27FBX8UlE-A)
+
+Pertemuan 10 – Algoritma Klasifikasi (Bagian 2)
+Mempelajari metode Random Forest, penanganan Imbalanced Dataset, serta implementasi klasifikasi pada studi kasus Customer Churn Prediction beserta evaluasi performa model.
+Notebook: [Pertemuan 10](https://colab.research.google.com/drive/1tuS31mH5gd-rBG3uaL55j5aaQnVWlFkU)
+
+Pertemuan 11 – Unsupervised Learning (Clustering)
+Mempelajari K-Means Clustering, Hierarchical Clustering, dan Metode Elbow untuk menentukan jumlah cluster yang optimal.
+Notebook: [Pertemuan 11](https://colab.research.google.com/drive/134FFJu4Lk6ujihgD2uEjuy1BDh1i5GJa)
+
+Pertemuan 12 – Asosiasi Data & Sistem Rekomendasi Dasar
+Mempelajari Algoritma Apriori (Market Basket Analysis) untuk menemukan pola pembelian serta memahami konsep Collaborative Filtering dan Content-Based Filtering sebagai dasar sistem rekomendasi.
+Notebook: [Pertemuan 12](https://colab.research.google.com/drive/12j9FOkeQpxfGWWb9s2FA6mj5eWfRasn0)
+
+Pertemuan 13 – Deep Learning & NLP Dasar
+MMempelajari konsep dasar Artificial Neural Network (ANN) serta pemrosesan teks menggunakan TF-IDF untuk melakukan analisis sentimen sederhana.
+Notebook: [Pertemuan 13](https://colab.research.google.com/drive/1V0dXh0FAEcDFKbVgU0ARsaIaqYiLmL9u)
+
 Tools dan library yang digunakan:
 Tools : 
   Python
@@ -67,4 +87,6 @@ Clone repository:
   Jalankan notebook menggunakan Jupyter Notebook atau Visual Studio Code.
 
 Kesimpulan:
-Dari tujuh pertemuan Data Science ini dapat dipahami tahapan dasar Data Science mulai dari pengenalan Phyton, eksplorasi data, pembersihan data, analisis statistik, visualisasi data, hingga pembuatan model maching learning sederhana. Pada praktikum ini, Data Science bukan hanya tentang membuat model prediksi tetapi juga tentang bagaimana menyiapkan data, menganalisis informasi, dan menyajikan hasil dengan baik agar dapat digunakan untuk mengambil keputusan.
+Selama mengikuti praktikum Data Science dari Pertemuan 1 hingga Pertemuan 13, saya mempelajari berbagai tahapan pengolahan dan analisis data, mulai dari dasar-dasar Python, eksplorasi data, preprocessing, visualisasi, hingga penerapan berbagai algoritma machine learning, clustering, association rule mining, dan pengolahan teks menggunakan TF-IDF.
+
+Melalui praktikum ini, saya memahami pentingnya memilih metode yang sesuai dengan jenis permasalahan, mengevaluasi model menggunakan metrik yang tepat, serta menginterpretasikan hasil analisis agar dapat mendukung pengambilan keputusan. Pengetahuan yang diperoleh menjadi bekal dasar dalam menerapkan konsep Data Science pada berbagai kasus nyata.
